@@ -4,6 +4,7 @@
         height: 100vh;
         position: absolute;
         background-color: #212121;
+        z-index: 100;
     }
 
     .loader {
